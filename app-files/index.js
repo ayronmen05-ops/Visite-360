@@ -67,6 +67,8 @@
     }
   };
 
+  viewerOpts.limitTextureSize = null;
+  
   // Initialize viewer.
   var viewer = new Marzipano.Viewer(panoElement, viewerOpts);
 
