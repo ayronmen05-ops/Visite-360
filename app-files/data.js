@@ -5,21 +5,21 @@ var APP_DATA = {
       "name": "1",
       "levels": [
         {
-          "tileSize": 6066,
-          "size": 6066,
+          "tileSize": 256,
+          "size": 256,
           "fallbackOnly": true
         },
         {
-          "tileSize": 6066,
-          "size": 6066
+          "tileSize": 512,
+          "size": 512
         },
         {
-          "tileSize": 6066,
-          "size": 6066
+          "tileSize": 512,
+          "size": 1024
         },
         {
-          "tileSize": 6066,
-          "size": 6066
+          "tileSize": 512,
+          "size": 2048
         }
       ],
       "faceSize": 1516.5,
@@ -49,21 +49,21 @@ var APP_DATA = {
       "name": "2",
       "levels": [
         {
-          "tileSize": 6386,
-          "size": 6386,
+          "tileSize": 256,
+          "size": 256,
           "fallbackOnly": true
         },
         {
-          "tileSize": 6386,
-          "size": 6386
+          "tileSize": 512,
+          "size": 512
         },
         {
-          "tileSize": 6386,
-          "size": 6386
+          "tileSize": 512,
+          "size": 1024
         },
         {
-          "tileSize": 6386,
-          "size": 6386
+          "tileSize": 512,
+          "size": 2048
         }
       ],
       "faceSize": 1596.5,
@@ -87,21 +87,21 @@ var APP_DATA = {
       "name": "3",
       "levels": [
         {
-          "tileSize": 6074,
-          "size": 6074,
+          "tileSize": 256,
+          "size": 256,
           "fallbackOnly": true
         },
         {
-          "tileSize": 6074,
-          "size": 6074
+          "tileSize": 512,
+          "size": 512
         },
         {
-          "tileSize": 6074,
-          "size": 6074
+          "tileSize": 512,
+          "size": 1024
         },
         {
-          "tileSize": 6074,
-          "size": 6074
+          "tileSize": 512,
+          "size": 2048
         }
       ],
       "faceSize": 1518.5,
